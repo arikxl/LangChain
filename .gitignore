@@ -1,0 +1,8 @@
+# Environment-specific files
+.env
+.env*
+.env.local
+
+
+# Python virtual environment
+venv/
